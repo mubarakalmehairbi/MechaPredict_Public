@@ -7,14 +7,14 @@ specific to defined crystal faces.
 
 ## How to install
 To install the latest version of MechaPredict, use the following link:
-[latest version](/releases/latest).
+[latest version](./releases/latest).
 
 To check all versions, go the link: 
-[all versions](/releases).
+[all versions](./releases).
 
 ## How to use
 You can find the steps for using MechaPredict in the
-[online documentation](/wiki).
+[online documentation](./wiki).
 
 ## Citation
 
@@ -27,4 +27,4 @@ Mubarak Almehairbi<br/>
 Email: mubarak.academic1999@gmail.com
 
 ## License
-You can find the project license here: [LICENSE](/main/tree/LICENSE)
+You can find the project license here: [LICENSE](/LICENSE)
