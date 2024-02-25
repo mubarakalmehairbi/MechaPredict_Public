@@ -9,7 +9,7 @@ specific to defined crystal faces.
 To install the latest version of MechaPredict, use the following link:
 [latest version](https://github.com/mubarakalmehairbi/MechaPredict_Public/releases/latest).
 
-To check all versions, go the link: 
+To check all versions, go to the link: 
 [all versions](https://github.com/mubarakalmehairbi/MechaPredict_Public/releases).
 
 ## How to use
@@ -20,7 +20,7 @@ You can find the steps for using MechaPredict in the
 
 
 ## Copyrights
-Copyright 2023 KHALIFA UNIVERSITY FOR SCIENCE & TECHNOLOGY.
+Copyright 2024 KHALIFA UNIVERSITY FOR SCIENCE & TECHNOLOGY.
 
 ## Author
 Mubarak Almehairbi<br/>
