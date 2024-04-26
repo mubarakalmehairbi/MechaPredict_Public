@@ -18,6 +18,7 @@ You can find the steps for using MechaPredict in the
 
 ## Questions & Contact
 If you have a GitHub account, you can ask questions related to MechaPredict in the project public [discussion](https://github.com/mubarakalmehairbi/MechaPredict_Public/discussions) or report bugs by opening an [issue](https://github.com/mubarakalmehairbi/MechaPredict_Public/issues).
+
 For more private matters or if you do not have a GitHub account, you can contact the developer: mubarak.academic1999@gmail.com
 
 ## Citation
