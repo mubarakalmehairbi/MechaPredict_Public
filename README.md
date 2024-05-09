@@ -22,7 +22,7 @@ If you have a GitHub account, you can ask questions related to MechaPredict in t
 For more private matters or if you do not have a GitHub account, you can contact the developer: mubarak.academic1999@gmail.com
 
 ## Citation
-Please cite this paper when using the program: [](https://doi.org/10.1002/chem.202400779)
+Please cite this paper when using the program: [https://doi.org/10.1002/chem.202400779](https://doi.org/10.1002/chem.202400779)
 
 ## Copyrights
 Copyright 2024 KHALIFA UNIVERSITY FOR SCIENCE & TECHNOLOGY.
