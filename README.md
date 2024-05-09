@@ -22,7 +22,7 @@ In order to use MechaPredict, you need a license key. Please contact sharmarke.m
 ## Questions & Contact
 If you have a GitHub account, you can ask questions related to MechaPredict in the project public [discussion](https://github.com/mubarakalmehairbi/MechaPredict_Public/discussions) or report bugs by opening an [issue](https://github.com/mubarakalmehairbi/MechaPredict_Public/issues).
 
-For more private matters or if you do not have a GitHub account, you can contact the developer: mubarak.academic1999@gmail.com
+For more private matters or if you do not have a GitHub account, you can contact the developer: mubarak.academic1999@gmail.com or the supervisor: sharmarke.mohamed@ku.ac.ae.
 
 ## Citation
 Please cite this paper when using the program: [https://doi.org/10.1002/chem.202400779](https://doi.org/10.1002/chem.202400779)
