@@ -16,6 +16,9 @@ To check all versions, go to the link:
 You can find the steps for using MechaPredict in the
 [online documentation](https://github.com/mubarakalmehairbi/MechaPredict_Public/wiki).
 
+## How to request a license
+In order to use MechaPredict, you need a license key. Please contact sharmarke.mohamed@ku.ac.ae in order to receive a license.
+
 ## Questions & Contact
 If you have a GitHub account, you can ask questions related to MechaPredict in the project public [discussion](https://github.com/mubarakalmehairbi/MechaPredict_Public/discussions) or report bugs by opening an [issue](https://github.com/mubarakalmehairbi/MechaPredict_Public/issues).
 
