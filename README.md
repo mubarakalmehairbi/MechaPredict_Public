@@ -33,6 +33,6 @@ Copyright 2024 KHALIFA UNIVERSITY FOR SCIENCE & TECHNOLOGY.
 ## Author
 Mubarak Almehairbi<br/>
 Email: mubarak.academic1999@gmail.com
-
+ 
 ## License
 You can find the project license here: [LICENSE](/LICENSE)
